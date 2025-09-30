@@ -4,7 +4,3 @@
 
 # Hello There 👋
 ### I'm a High School Student. Passionate about Computers and Music.
----
-## My stats
-
-[![Abhik's GitHub stats](https://github-readme-stats.vercel.app/api?username=a8h1k&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
